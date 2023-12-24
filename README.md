@@ -25,17 +25,19 @@ This project is a THAI-ID OCR app that facilitates the upload and analysis of Th
    cd your-project-directory
 2. **Install Dependencies:**
 
-```bash
-npm install
-Start the Development Server:
 
-```bash
-npm start
-Access the App:
+
+`npm install`
+
+3. **Start the Development Server:**
+
+
+`npm start`
+4. Access the App:
 
 Open your browser and go to http://localhost:3000 to access the THAI-ID OCR app.
 
-Important Note
+##Important Note
 To fetch the latest user list after performing actions like deletion or update, it's necessary to refresh the page. This ensures that the app retrieves the most up-to-date information from the server.
 
 ##Technologies Used
