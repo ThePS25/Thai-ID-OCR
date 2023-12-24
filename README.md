@@ -36,12 +36,17 @@ Open your browser and go to http://localhost:3000 to access the THAI-ID OCR app.
 To fetch the latest user list after performing actions like deletion or update, it's necessary to refresh the page. This ensures that the app retrieves the most up-to-date information from the server.
 
 ## Technologies Used:
-*React*
-*Node.js*
-*Express*
-*MongoDB*
-*Mongoose*
-*Axios*
+-*React*
+
+-*Node.js*
+
+-*Express*
+
+-*MongoDB*
+
+-*Mongoose*
+
+-*Axios*
 
 
 ## Demo Link:
