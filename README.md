@@ -32,10 +32,10 @@ This project is a THAI-ID OCR app that facilitates the upload and analysis of Th
 4. Access the App:
 Open your browser and go to http://localhost:3000 to access the THAI-ID OCR app.
 
-##Important Note
+## Important Note:
 To fetch the latest user list after performing actions like deletion or update, it's necessary to refresh the page. This ensures that the app retrieves the most up-to-date information from the server.
 
-##Technologies Used
+## Technologies Used:
 *React*
 *Node.js*
 *Express*
