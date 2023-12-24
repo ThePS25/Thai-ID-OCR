@@ -24,17 +24,12 @@ This project is a THAI-ID OCR app that facilitates the upload and analysis of Th
    git clone <repository-url>
    cd your-project-directory
 2. **Install Dependencies:**
-
-
-
-`npm install`
+     `npm install`
 
 3. **Start the Development Server:**
+     `npm start`
 
-
-`npm start`
 4. Access the App:
-
 Open your browser and go to http://localhost:3000 to access the THAI-ID OCR app.
 
 ##Important Note
