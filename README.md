@@ -23,13 +23,13 @@ This project is a THAI-ID OCR app that facilitates the upload and analysis of Th
    ```bash
    git clone <repository-url>
    cd your-project-directory
-#Install Dependencies:
+2. **Install Dependencies:**
 
-
+```bash
 npm install
 Start the Development Server:
 
-
+```bash
 npm start
 Access the App:
 
