@@ -16,6 +16,8 @@ This project is a THAI-ID OCR app that facilitates the upload and analysis of Th
 
 -  **Delete Entry From List:** Users can delete the information from the database.
 
+-  **Google Vision API:** Used Google Vision API for OCR of Thai identity card.
+
 ## Getting Started
 
 1. **Clone the Repository:**
