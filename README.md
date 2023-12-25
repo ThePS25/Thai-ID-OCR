@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a THAI-ID OCR app that facilitates the upload and analysis of Thai ID card images. The app provides essential features such as uploading images, analyzing ID card details, and updating user information.
+This project is a THAI-ID OCR app that facilitates the upload and analysis of Thai ID card images. The app provides essential features such as uploading images, analyzing ID card details, and deleting user information.
 
 ## Features
 
